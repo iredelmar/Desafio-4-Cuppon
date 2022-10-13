@@ -1,0 +1,49 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.container{
+    justify-content: center;
+}
+.experiencias{
+  align-items: center;
+}
+
+h1 {
+  font-size: 20px;
+}
+
+.oferta {
+  font-size: 20px;
+  color: rgb(109, 205, 109);
+  font-weight: bold;
+}
+
+.formulario {
+  padding: 20px;
+  background-color: rgb(86, 161, 86);
+}
+
+p.tituloform {
+  color: white;
+  text-align: center;
+}
+
+.btn-primary {
+  background-color: white;
+  color: black;
+  border: none;
+  border-radius: 3px;
+}
+
+footer {
+  text-align: center;
+}
+
+footer h1 {
+  font-weight: bolder;
+}
+
+footer p{
+    font-weight: lighter;
+}
